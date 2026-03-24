@@ -62,6 +62,8 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+- [TradeSight](https://github.com/rmbell09-lang/tradesight) - RSI-based paper trading system for US equities using Alpaca Markets API. Autonomous signal generation, position management, and P&L tracking. Built with Python.
+
 - [TradeSight](https://github.com/rmbell09-lang/tradesight) - AI-powered trading intelligence platform that scans Polymarket prediction markets and stocks, runs AI strategy tournaments, and provides live paper trading signals with automated backtesting.
 
 ## Articles
